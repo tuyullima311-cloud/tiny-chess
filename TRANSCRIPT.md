@@ -1,7 +1,6 @@
 # Build transcript summary — tiny-chess-01
 
-Two Muse sessions, 16 Nov 2026; full transcripts bundled
-at submission.
+Two Muse sessions, 16 Nov 2026.
 
 S1 (earlier agent): engine.py → engine2..10 (20.6→14.2 KB),
 each packed with `makefun compress` (packed10 4,042 B, the
