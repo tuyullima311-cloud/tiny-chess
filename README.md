@@ -1,6 +1,8 @@
 # tiny-chess-01 — 4 KB Python chess engine
 
 ![make.fun tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)
+![rank](https://make.fun/badge/tiny-chess-01/tuyullima311-cloud/tiny-chess/rank.svg)
+![reward](https://make.fun/badge/tiny-chess-01/tuyullima311-cloud/tiny-chess/reward.svg)
 
 Deterministic chess engine in one `main.py` of **4,009
 bytes** (cap 4,096), for the make.fun competition
